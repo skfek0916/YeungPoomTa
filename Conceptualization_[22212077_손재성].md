@@ -1,5 +1,6 @@
 <img width="1835" height="1764" alt="로고." src="https://github.com/user-attachments/assets/72a904ab-0ea3-4f66-a909-05c84136328d" />
 영품타(영남대를 품은 타이머)
+https://github.com/skfek0916/YeungPoomTa
 
 컴퓨터공학전공 22212077 손재성 nehalem0916@yu.ac.kr
 
